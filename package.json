@@ -6,7 +6,7 @@
   "scripts": {
     "test": "mocha test.js",
     "watch": "mocha --watch test.js",
-    "coverage": "istanbul cover ./node_modules/.bin/_mocha -- test.js",
+    "coverage": "istanbul cover ./node_modules/.bin/_mocha -- test.js"
   },
   "repository": {
     "type": "git",
