@@ -1,0 +1,35 @@
+{
+  "name": "proxy-table",
+  "version": "0.0.0",
+  "description": "Proxy table with routable proxy paths",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Moveo/proxy-table.git"
+  },
+  "dependencies": {
+    "routable": "0.0.x"
+  },
+  "devDependencies": {
+    "assume": "1.1.x",
+    "istanbul": "0.3.x",
+    "mocha": "2.1.x",
+    "pre-commit": "1.0.x"
+  },
+  "keywords": [
+    "Proxy",
+    "table",
+    "routable",
+    "routes",
+    "methods"
+  ],
+  "author": "Martijn Swaagman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Moveo/proxy-table/issues"
+  },
+  "homepage": "https://github.com/Moveo/proxy-table"
+}

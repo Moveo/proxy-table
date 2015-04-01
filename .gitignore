@@ -1,0 +1,10 @@
+node_modules
+pagelets.sublime-project
+pagelets.sublime-workspace
+.tern-port
+npm-debug.log
+example/dist/*
+test/dist/*
+dist/*
+.DS_Store
+coverage
