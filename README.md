@@ -1,5 +1,7 @@
 # Proxy Table
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Swaagie/proxy-table.svg)](https://greenkeeper.io/)
+
 [![Version npm][version]](http://browsenpm.org/package/proxy-table)[![Build Status][build]](https://travis-ci.org/Moveo/proxy-table)[![Dependencies][david]](https://david-dm.org/moveo/proxy-table)[![Coverage Status][cover]](https://coveralls.io/r/moveo/proxy-table?branch=master)
 
 [version]: http://img.shields.io/npm/v/proxy-table.svg?style=flat-square
